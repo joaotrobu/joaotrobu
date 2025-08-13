@@ -2,4 +2,4 @@
 
 
  
-<img height="250" alt="Most Used Languages'" src="https://github-used-languages.vercel.app/trobukan">
+<img height="150" alt="Most Used Languages'" src="https://github-used-languages.vercel.app/trobukan">
