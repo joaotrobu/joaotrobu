@@ -1,3 +1,4 @@
-<p align="center">
-  <img height="150" alt="Most Used Languages" src="https://github-used-languages.vercel.app/joaotrobu?config=config.json">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/joaotrobu?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/joaotrobu">
+</picture>
